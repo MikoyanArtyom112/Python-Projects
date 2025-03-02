@@ -1,0 +1,2 @@
+Documentation - Contains formats and how guidelines.
+Projects - Contains Python projects developed and made.
